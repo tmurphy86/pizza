@@ -11,5 +11,31 @@
       "StackId": "arn:aws:cloudformation:us-east-1:643457775233:stack/amplify-andypizzashop-prod-95300/8d4eb3a0-537f-11ec-bb56-0ec98749ac69",
       "AmplifyAppId": "d169kt94ububps"
     }
+  },
+  "qa": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-andypizzashop-qa-100942-authRole",
+      "UnauthRoleArn": "arn:aws:iam::643457775233:role/amplify-andypizzashop-qa-100942-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::643457775233:role/amplify-andypizzashop-qa-100942-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-andypizzashop-qa-100942-deployment",
+      "UnauthRoleName": "amplify-andypizzashop-qa-100942-unauthRole",
+      "StackName": "amplify-andypizzashop-qa-100942",
+      "StackId": "arn:aws:cloudformation:us-east-1:643457775233:stack/amplify-andypizzashop-qa-100942/e1640d80-5381-11ec-b7cb-0e9c4cff6121",
+      "AmplifyAppId": "d169kt94ububps"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-andypizzashop-dev-101209-authRole",
+      "UnauthRoleArn": "arn:aws:iam::643457775233:role/amplify-andypizzashop-dev-101209-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::643457775233:role/amplify-andypizzashop-dev-101209-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-andypizzashop-dev-101209-deployment",
+      "UnauthRoleName": "amplify-andypizzashop-dev-101209-unauthRole",
+      "StackName": "amplify-andypizzashop-dev-101209",
+      "StackId": "arn:aws:cloudformation:us-east-1:643457775233:stack/amplify-andypizzashop-dev-101209/38dd64d0-5382-11ec-b513-0e964048dd17",
+      "AmplifyAppId": "d169kt94ububps"
+    }
   }
 }
