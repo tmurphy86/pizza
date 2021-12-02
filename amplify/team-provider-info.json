@@ -10,6 +10,11 @@
       "StackName": "amplify-andypizzashop-prod-95300",
       "StackId": "arn:aws:cloudformation:us-east-1:643457775233:stack/amplify-andypizzashop-prod-95300/8d4eb3a0-537f-11ec-bb56-0ec98749ac69",
       "AmplifyAppId": "d169kt94ububps"
+    },
+    "categories": {
+      "auth": {
+        "andypizzashop403da9ae": {}
+      }
     }
   },
   "qa": {
