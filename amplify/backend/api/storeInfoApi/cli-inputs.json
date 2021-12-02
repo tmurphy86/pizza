@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "paths": {
+    "/stores": {
+      "name": "/stores",
+      "lambdaFunction": "storeInfo",
+      "permissions": {
+        "groups": {
+          "storeadmins": [
+            "create",
+            "read",
+            "update",
+            "delete"
+          ]
+        },
+        "setting": "private"
+      }
+    }
+  }
+}
