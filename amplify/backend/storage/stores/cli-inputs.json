@@ -1,0 +1,10 @@
+{
+  "resourceName": "stores",
+  "tableName": "stores",
+  "partitionKey": {
+    "fieldName": "storeCode",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
